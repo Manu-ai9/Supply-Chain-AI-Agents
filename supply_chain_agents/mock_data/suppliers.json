@@ -1,0 +1,23 @@
+{
+  "SKU-001": [
+    {"supplier": "Alpine Goods Co", "unit_price": 6.20, "lead_time_days": 6, "reliability_score": 0.95, "min_order_qty": 100},
+    {"supplier": "Rocky Mountain Supply", "unit_price": 5.80, "lead_time_days": 10, "reliability_score": 0.88, "min_order_qty": 200}
+  ],
+  "SKU-002": [
+    {"supplier": "Volt Electronics Ltd", "unit_price": 9.10, "lead_time_days": 12, "reliability_score": 0.90, "min_order_qty": 150}
+  ],
+  "SKU-003": [
+    {"supplier": "FlexFit Manufacturing", "unit_price": 4.50, "lead_time_days": 8, "reliability_score": 0.92, "min_order_qty": 80},
+    {"supplier": "Rocky Mountain Supply", "unit_price": 4.80, "lead_time_days": 5, "reliability_score": 0.88, "min_order_qty": 60}
+  ],
+  "SKU-004": [
+    {"supplier": "Alpine Goods Co", "unit_price": 7.30, "lead_time_days": 9, "reliability_score": 0.95, "min_order_qty": 120}
+  ],
+  "SKU-005": [
+    {"supplier": "Volt Electronics Ltd", "unit_price": 14.50, "lead_time_days": 14, "reliability_score": 0.90, "min_order_qty": 100},
+    {"supplier": "Pacific Audio Imports", "unit_price": 13.20, "lead_time_days": 20, "reliability_score": 0.78, "min_order_qty": 200}
+  ],
+  "SKU-006": [
+    {"supplier": "Summit Gear Partners", "unit_price": 11.00, "lead_time_days": 7, "reliability_score": 0.93, "min_order_qty": 50}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "carriers": [
+    {"name": "RegionalFreight Express", "max_lead_time_days": 7, "cost_multiplier": 1.15, "reliability_score": 0.94},
+    {"name": "Standard Ground Logistics", "max_lead_time_days": 14, "cost_multiplier": 1.0, "reliability_score": 0.89},
+    {"name": "Economy Freight Co", "max_lead_time_days": 25, "cost_multiplier": 0.85, "reliability_score": 0.80}
+  ],
+  "warehouse_receiving_hours": {"DEN-1": "06:00-18:00", "DEN-2": "07:00-16:00"}
+}

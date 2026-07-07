@@ -1,0 +1,8 @@
+{
+  "SKU-001": {"current_stock": 180, "safety_stock_days": 7, "warehouse": "DEN-1"},
+  "SKU-002": {"current_stock": 420, "safety_stock_days": 10, "warehouse": "DEN-1"},
+  "SKU-003": {"current_stock": 55, "safety_stock_days": 7, "warehouse": "DEN-1"},
+  "SKU-004": {"current_stock": 310, "safety_stock_days": 10, "warehouse": "DEN-2"},
+  "SKU-005": {"current_stock": 90, "safety_stock_days": 5, "warehouse": "DEN-1"},
+  "SKU-006": {"current_stock": 140, "safety_stock_days": 10, "warehouse": "DEN-2"}
+}

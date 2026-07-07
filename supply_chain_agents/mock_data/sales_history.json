@@ -1,0 +1,8 @@
+{
+  "SKU-001": {"name": "Stainless Steel Water Bottle", "daily_sales_last_30_days": [22,25,19,30,28,24,21,26,33,29,27,24,20,31,35,28,26,23,29,32,30,27,25,28,34,31,29,26,30,33], "trend": "rising"},
+  "SKU-002": {"name": "Wireless Phone Charger", "daily_sales_last_30_days": [15,14,16,13,15,17,14,15,16,18,15,14,13,16,17,15,14,16,15,17,16,15,14,15,16,17,15,14,16,15], "trend": "stable"},
+  "SKU-003": {"name": "Yoga Mat 6mm", "daily_sales_last_30_days": [8,9,7,10,12,9,8,11,13,10,9,8,7,9,11,10,9,8,7,9,10,9,8,7,9,10,9,8,7,8], "trend": "stable"},
+  "SKU-004": {"name": "Insulated Lunch Box", "daily_sales_last_30_days": [40,42,38,45,50,47,44,41,46,52,49,45,42,40,44,48,46,43,40,38,42,44,41,39,37,40,42,39,37,38], "trend": "falling"},
+  "SKU-005": {"name": "Bluetooth Earbuds", "daily_sales_last_30_days": [60,65,58,70,75,72,68,64,69,78,74,71,67,63,68,73,70,66,62,67,71,69,65,61,66,70,68,64,60,63], "trend": "rising"},
+  "SKU-006": {"name": "Travel Backpack 35L", "daily_sales_last_30_days": [10,11,9,12,14,11,10,13,15,12,11,10,9,11,13,12,11,10,9,11,12,11,10,9,11,12,11,10,9,10], "trend": "stable"}
+}
